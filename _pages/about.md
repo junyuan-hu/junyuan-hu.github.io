@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "The purpose of this website | 这个网站的目的"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am extremely amazed by the powerful force of the Internet and large model tools, which enabled me to complete the production of this personal webpage in an extremely short time. Besides, my coding skills are limited. If any experts come to offer guidance, I would be very grateful!
+The purpose of this website is to get to know more researchers in fields such as organic chemistry, computational chemistry, and artificial intelligence. I believe that cooperation will lead to great achievements!
+
+非常惊叹于互联网和大模型工具的强大力量，让我在极短的时间内完成了这个个人网页的制作。另外本人代码水平着手有限，若有大神前来指点，本人非常感谢！
+该网站的目的是为了认识更多在有机化学、计算化学、人工智能等领域的研究者，我相信合作将有大作为！
 
 A data-driven personal website
 ======
