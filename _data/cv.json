@@ -1,64 +1,55 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Junyuan Hu | 胡钧员",
+    "email": "hujy2023@163.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://junyuan-hu.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Yantai | Shandong",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Junyuan Hu",
+        "url": "https://scholar.google.com.hk/citations?user=nzxgiNIAAAAJ&hl=zh-CN&oi=ao"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0000-5954-7260"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "junyuan-hu",
+        "url": "https://github.com/junyuan-hu"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Nanjing tech University | 南京工业大学",
+      "area": "M.S. in Computational chemistry | 计算化学硕士 ",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2023",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Northwest Normal University | 西北师范大学",
+      "area": "B.S. in Chemical Engineering and Technology | 化学工程与工艺学士",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
       "gpa": null,
       "courses": []
     },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
   ],
   "skills": [],
   "languages": [],
@@ -66,63 +57,27 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Catalyst Control over S (IV)-stereogenicity via Carbene-derived Sulfinyl Azolium Intermediates",
+      "publisher": "ACS",
+      "releaseDate": "2024/9/2",
+      "website": "https://pubs.acs.org/doi/abs/10.1021/jacs.4c10486",
+      "summary": "Stereoselective synthesis utilizing small-molecule catalysts, particularly N-heterocyclic carbene (NHC), 
+      has facilitated swift access to enantioenriched molecules through diverse activation modes and NHC-bound reactive 
+      intermediates. While carbonyl derivatives, imines, and “activated” alkenes have been extensively investigated, the 
+      exploration of heteroatom-centered analogues of NHC-bound intermediates has long been neglected, despite the
+      significant potential for novel chemical transformations they offer once recognized. Herein, we disclose a 
+      carbene-catalyzed new activation mode by generating unique sulfinyl azolium intermediates from carbene nucleophilic
+      addition to in situ-generated mixed sulfinic anhydride intermediates. Combined experimental and computational 
+      mechanistic investigations pinpoint the chiral NHC-catalyzed formation of sulfinyl azolium intermediate as the 
+      enantio-determining step. The novel “S”-based carbene reactive intermediate imparts high efficiency for the catalytic
+      construction of sulfur-stereogenic compounds, giving rise to sulfinate esters with high yields and enantioselectivities
+      under mild conditions. Notably, distinct from most of the NHC-catalyzed enantioselective transformations focusing on
+      the “C” central chiral products, our study realizes a unique carbene-catalyst control over chiral “S” stereocenters
+      via direct asymmetric S–O bond formation for the first time. Furthermore, these sulfinyl-containing products could
+      serve as versatile synthetic platforms for enantioenriched S-stereogenic functional molecules and exhibit remarkable
+      antibacterial activities against rice plant pathogens, which is valuable for the development of novel agrochemical 
+      agents."
     },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
   ],
   "teaching": [
     {
@@ -132,13 +87,6 @@
       "role": "Undergraduate course",
       "description": ""
     },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
   ],
   "portfolio": [
     {
