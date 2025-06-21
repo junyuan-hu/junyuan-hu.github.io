@@ -1,14 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Synthesis of P (V)-Stereogenic Phosphorus Compounds via Organocatalytic Asymmetric Condensation"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://pubs.acs.org/doi/abs/10.1021/jacs.4c11956
+date: 2024/11/26
+authors: 'Fengrui Che#, Junyuan Hu#, Minghong Liao, Zhongfu Luo, Hongyan Long, Benpeng Li, Yonggui Robin Chi, Xingxing Wu*'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Enantioenriched phosphorus(V)-stereogenic compounds, featuring a pentavalent phosphorus atom as the stereogenic center, are crucial in various natural products, drugs, bioactive molecules, and catalysts/ligands. While a handful of stereoselective synthetic approaches have been developed, achieving direct stereocontrol at the phosphorus atom through catalytic generation of phosphorus(V)-heteroatom bonds continues to be a formidable challenge. Here, we disclose an organocatalytic asymmetric condensation strategy that employs a novel activation mode of stable feedstock phosphinic acids by the formation of mixed phosphinic anhydride as the reactive species to facilitate further catalyst-controlled asymmetric P–O bond formations, involving a dynamic kinetic asymmetric transformation (DYKAT) process with alcohol nucleophiles via a cinchonidine-derived bifunctional catalyst. The resulting H-phosphinate intermediates allow further stereospecific derivatizations, affording modular access to a diverse library of chiral phosphonates and phosphonamidates with notable antibacterial activity. Furthermore, this synthetic platform facilitates P–O/N coupling with various natural products and drugs, presenting a valuable tool for medicine and agrochemical discovery.
