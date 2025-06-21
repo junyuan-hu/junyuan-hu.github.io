@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Junyuan Hu | 胡钧员"
+title                    : "胡钧员 | Junyuan Hu"
 title_separator          : "-"
-name                     : &name "Junyuan Hu | 胡钧员"
+name                     : &name "胡钧员 | Junyuan Hu"
 description              : &description "personal description"
 url                      : https://junyuan-hu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,9 +23,9 @@ repository               : "junyuan-hu/junyuan-hu.github.io"
 author:
   # Biographic information
   avatar           : "hujunyuan.jpg"
-  name             : "Junyuan Hu | 胡钧员"
+  name             : "胡钧员 | Junyuan Hu"
   pronouns         : # example: "she/her"  
-  bio              : "Heaven rewards the diligent | 天道酬勤"
+  bio              : "天道酬勤 | Heaven rewards the diligent"
   location         : "Yantai | Shandong"
   employer         : # URL
   uri              : # URL
