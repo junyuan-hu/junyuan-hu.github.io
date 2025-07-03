@@ -5,7 +5,7 @@ category: manuscripts
 permalink: https://pubs.acs.org/doi/abs/10.1021/jacs.4c11956
 excerpt: 'authors: Fengrui Che#, <strong>Junyuan Hu</strong>#, Minghong Liao#, Zhongfu Luo, Hongyan Long, Benpeng Li, Yonggui Robin Chi, Xingxing Wu*'
 date: 2024/11/26
-venue: '146-33763-33773'
+venue: 'J. Am. Chem. Soc. 2024, 146, 33763−33773'
 slidesurl: 'https://pubs.acs.org/doi/full/10.1021/jacs.4c11956'
 paperurl: 'https://pubs.acs.org/doi/full/10.1021/jacs.4c11956'
 citation: 'J. Am. Chem. Soc. 2024, 146, 33763−33773'
