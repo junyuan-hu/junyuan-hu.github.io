@@ -9,13 +9,14 @@
 
   <div class="archive__item-body">
 
-    {% if post.collection == "publications" %}
+    {% if post.collection == "portfolio" %}
+      <!-- Portfolio：标题无链接 -->
       <h2 class="archive__item-title" itemprop="headline">
         {{ title }}
       </h2>
 
       {% if post.excerpt %}
-        <div class="archive__item-excerpt archive__item-excerpt--pub" itemprop="description">
+        <div class="archive__item-excerpt" itemprop="description">
           {{ post.excerpt | markdownify }}
         </div>
       {% endif %}
@@ -24,15 +25,13 @@
         {% if post.venue %}
           <strong>{{ post.venue }}</strong><br />
         {% endif %}
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}" target="_blank" class="btn btn--primary" aria-label="Download paper">Download paper</a><br />
-        {% endif %}
         {% if post.link %}
           <a href="{{ post.link }}" class="btn btn--secondary" aria-label="External link">More info <i class="fa fa-external-link"></i></a><br />
         {% endif %}
       </p>
 
     {% else %}
+      <!-- Blog posts 或其他，标题带链接 -->
       <h2 class="archive__item-title" itemprop="headline">
         <a href="{{ post.url | relative_url }}">{{ title }}</a>
       </h2>
