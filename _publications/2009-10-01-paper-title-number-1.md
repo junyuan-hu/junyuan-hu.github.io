@@ -3,7 +3,7 @@ title: "Synthesis of P (V)-Stereogenic Phosphorus Compounds via Organocatalytic 
 collection: publications
 category: manuscripts
 permalink: https://pubs.acs.org/doi/abs/10.1021/jacs.4c11956
-excerpt: 'authors: Fengrui Che#, Junyuan Hu#, Minghong Liao#, Zhongfu Luo, Hongyan Long, Benpeng Li, Yonggui Robin Chi, Xingxing Wu*'
+excerpt: 'authors: Fengrui Che#, <strong>Junyuan Hu</strong>#, Minghong Liao#, Zhongfu Luo, Hongyan Long, Benpeng Li, Yonggui Robin Chi, Xingxing Wu*'
 date: 2024/11/26
 venue: '146-33763-33773'
 slidesurl: 'https://pubs.acs.org/doi/full/10.1021/jacs.4c11956'
