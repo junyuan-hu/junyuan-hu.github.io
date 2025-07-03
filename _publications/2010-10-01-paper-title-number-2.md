@@ -5,7 +5,7 @@ category: manuscripts
 permalink: 'https://pubs.acs.org/doi/full/10.1021/jacs.4c10486'
 excerpt: 'authors:Benpeng Li#, <strong>Junyuan Hu</strong>#, Minghong Liao, Qin Xiong, Yaqi Zhang, Yonggui Robin Chi, Xinglong Zhang\*, Xingxing Wu\*'
 date: 2024-9-2
-venue: '146-25350-25360'
+venue: 'J. Am. Chem. Soc. 2024, 146, 25350−25360'
 slidesurl: 'https://pubs.acs.org/doi/full/10.1021/jacs.4c10486'
 paperurl: 'https://pubs.acs.org/doi/full/10.1021/jacs.4c10486'
 citation: 'J. Am. Chem. Soc. 2024, 146, 25350−25360'
