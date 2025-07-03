@@ -3,7 +3,7 @@ title: "Catalyst Control over S (IV)-stereogenicity via Carbene-derived Sulfinyl
 collection: publications
 category: manuscripts
 permalink: 'https://pubs.acs.org/doi/full/10.1021/jacs.4c10486'
-excerpt: 'Author:Benpeng Li#, Junyuan Hu#, Minghong Liao, Qin Xiong, Yaqi Zhang, Yonggui Robin Chi, Xinglong Zhang**, Xingxing Wu**'
+excerpt: 'Author:Benpeng Li#, Junyuan Hu#, Minghong Liao, Qin Xiong, Yaqi Zhang, Yonggui Robin Chi, Xinglong Zhang*, Xingxing Wu*'
 date: 2024-9-2
 venue: '146-25350-25360'
 slidesurl: 'https://pubs.acs.org/doi/full/10.1021/jacs.4c10486'
