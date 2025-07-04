@@ -11,9 +11,9 @@
 
     {% if post.collection == "publications" or post.collection == "portfolio" %}
       <!-- Publications 或 Portfolio，标题不带链接 -->
-      <h2 class="archive__item-title" itemprop="headline">
+      <p class="archive__item-title" itemprop="headline">
         {{ title }}
-      </h2>
+      </p>
     
       {% if post.content %}
         <div class="archive__item-content">
