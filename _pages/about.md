@@ -51,4 +51,4 @@ If you’re interested, feel free to reach out via email or WeChat!<br>
 
 For more information, please explore other sections of this website: [Junyuan Hu’s Personal Homepage](https://junyuan-hu.github.io/).
 You can also visit my Google Scholar profile here: [Junyuan Hu on Google Scholar](https://scholar.google.com.hk/citations?user=nzxgiNIAAAAJ&hl=zh-CN&oi=ao).
-Of course, feel free to reach out via email: hujy2023@163.com or add me on WeChat (J120052) — I’d be happy to connect!
+Of course, feel free to reach out via email: hujy2023@163.com/junyuanhu@sdu.edu.cn or add me on WeChat (J120052) — I’d be happy to connect!
