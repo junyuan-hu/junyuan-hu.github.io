@@ -45,10 +45,10 @@ If you’re interested, feel free to reach out via email or WeChat!<br>
 
 关于我的更多信息 | For more info 
 ------
-更多信息可参考本网站的其他栏 [胡钧员的个人主页](https://junyuan-hu.github.io/), 另外你也可以访问我的谷歌学术主页 [胡钧员的谷歌学术主页](https://scholar.google.com.hk/citations?user=nzxgiNIAAAAJ&hl=zh-CN&oi=ao). 当然非常欢迎邮件联系我(hujy2023@163.com/junyuanhu@sdu.edu.cn),也可以添加我的微信(微信号:J120052)进一步交流。
+更多信息可参考本网站的其他栏 [胡钧员的个人主页](https://junyuan-hu.github.io/), 另外你也可以访问我的谷歌学术主页 [胡钧员的谷歌学术主页](https://scholar.google.com.hk/citations?user=nzxgiNIAAAAJ&hl=zh-CN&oi=ao). 当然非常欢迎邮件联系我(hujy2023@163.com/junyuanhu@sdu.edu.cn)。
 
 
 
 For more information, please explore other sections of this website: [Junyuan Hu’s Personal Homepage](https://junyuan-hu.github.io/).
 You can also visit my Google Scholar profile here: [Junyuan Hu on Google Scholar](https://scholar.google.com.hk/citations?user=nzxgiNIAAAAJ&hl=zh-CN&oi=ao).
-Of course, feel free to reach out via email: hujy2023@163.com/junyuanhu@sdu.edu.cn or add me on WeChat (J120052) — I’d be happy to connect!
+Of course, feel free to reach out via email: hujy2023@163.com/junyuanhu@sdu.edu.cn—I’d be happy to connect!
